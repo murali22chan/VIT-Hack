@@ -1,6 +1,5 @@
 # VIT-Hack
 ## Certificate Generator Project
-## Problem statement from Global Cert
 After drawing each box press c to add tag name for the last box alone press q instead of c
 It'll get the tag name and it'll break from the loop
 Tag name should be exactly same as the column name in excel sheet
