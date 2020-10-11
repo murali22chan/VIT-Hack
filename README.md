@@ -1,5 +1,5 @@
 # VIT-Hack
-## Certificate Generator Project
+## Automatic Certificate Generator
 Users can use a template certificate and drawing bounding boxes in region and can mention the detail to be filled.
 And the mentioned details will be pulled from a excel sheet and will be filled in the template certificate. And certificate for all the entries in the excel sheet will be generated.
 ### Steps to run
