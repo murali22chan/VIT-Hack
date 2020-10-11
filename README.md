@@ -7,7 +7,7 @@ And the mentioned details will be pulled from a excel sheet and will be filled i
 2. Save your template as certificate.jpg
 3. python3 final.py
 4. Draw bounding boxes and corressponding tags.
-5. After drawing each box press c to add tag name for the last box alone press q instead of c
+5. After drawing each box press c to add tag name, For the last box alone press q instead of c
 It'll get the tag name and it'll break from the loop.
 #### Note
 Tag name should be exactly same as the column name in excel sheet
